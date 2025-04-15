@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('products', async ({ page }) => {
+test('Products Purchase ', async ({ page }) => {
   // ========== LOCATORS SECTION ==========
   // Locators for elements on the page
   const miceImg = page.locator('#miceImg');  
