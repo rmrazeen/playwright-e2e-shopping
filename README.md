@@ -12,7 +12,7 @@ This repository contains an end-to-end (E2E) test using [Playwright](https://pla
 │   └── productPurchase.spec.ts  # Main test file
 ├── README.md
 ├── package.json
-├── playwright.config.ts
+├── playwright.config.js
 └── ...
 ```
 
@@ -35,7 +35,7 @@ This repository contains an end-to-end (E2E) test using [Playwright](https://pla
 ## 🧪 Technologies Used
 
 - [Playwright Test Runner](https://playwright.dev/docs/test-intro)
-- TypeScript (or JavaScript if you prefer)
+- javaScript (or TypeScript if you prefer)
 - Node.js
 
 ---
